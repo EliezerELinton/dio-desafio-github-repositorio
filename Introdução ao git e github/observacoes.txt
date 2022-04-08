@@ -1,0 +1,1 @@
+o comando cd no git abre o diretorio que vamos trabalhar
